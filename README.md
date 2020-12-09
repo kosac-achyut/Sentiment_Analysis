@@ -9,7 +9,7 @@ NumPy<br>
 Matplotlib<br>
 TensorFlow<br>
 
-# How to execute model.<br>
+### How to execute model.<br>
 First create a python venv and clone the gitrepo.<br>
 ```
 python3 venv -m "virtual environment name"
